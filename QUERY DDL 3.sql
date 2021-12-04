@@ -1,0 +1,21 @@
+-- INSERT INTO departamentos VALUES
+-- (211,'Juridico','quadra A-13'),
+-- (231,'Financeiro','quadra A-25'),
+-- (456,'Tecnologia da Informação','quadra A-31'),
+-- (466,'Recursos Humanos','quadra C-14'),
+-- (556,'Marketing','quadra A-12'),
+-- (560,'Presidencia','quadra C-11');
+
+-- INSERT INTO funcionarios(CPF,nome,endereco,salario,codigo_departamento,codigo_depertamentoGerenciar) VALUES
+-- ('3985699025','Adilson Fernandes Souza','São Paulo','314220065','4500','231','231'),
+-- ('10022256232','Olivia de Paula Brito','São Paulo','314430089','1200','556',NULL),
+-- ('10546222142','Marcos Antônio da Silva','Jundiaí','319786874','980','456',NULL),
+-- ('29845651111','Vanessa Brito','Sorocaba','312678904','950','466',NULL),
+-- ('90856251432','Fernando Marciel','Santo André','318907654','2500','456',NULL);
+
+-- INSERT INTO dependentes VALUES 
+-- ('2763','José Francisco Brito','Sorocaba','pai'),
+-- ('3322','André Silva Marciel','São Paulo','filho'),
+-- ('3768','Leonardo Silva Marciel','Jundiaí','filho'),
+-- ('3776','Mariana Lemos de Souza','Jundiaí','filha'),
+-- ('7316','Leandro Silva Marciel','São Paulo','filho');
